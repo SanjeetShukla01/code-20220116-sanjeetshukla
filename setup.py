@@ -7,9 +7,9 @@ LONG_DESC_TYPE = "text/markdown"
 
 
 setup(
-    name='pyspark_boilerplate',
+    name='bmi_calculator',
     version='0.1.0',
-    packages=['src', 'src.app', 'src.etl', 'src.utils', 'test', 'config'],
+    packages=['src',  'src.etl', 'src.utils', 'test', 'config'],
     url='',
     license='MIT',
     author='Sanjet Shukla',

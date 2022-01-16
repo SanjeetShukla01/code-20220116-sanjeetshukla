@@ -4,7 +4,7 @@
 [<img src="https://github.com/jackshukla7/code-20220116-sanjeetshukla/actions/workflows/publish.yml/badge.svg">](https://github.com/jackshukla7/code-20220116-sanjeetshukla/actions)
 
 For problem description see this pdf file:
-![file.pdf](https://github.com/jackshukla7/code-20220116-sanjeetshukla/blob/main/Python_BMI_Calculator_Challenge_Rubeus.pdf)
+[Python_BMI_Calculator_Challenge_Rubeus.pdf](https://github.com/jackshukla7/code-20220116-sanjeetshukla/blob/main/Python_BMI_Calculator_Challenge_Rubeus.pdf)
 
 ## Description
 This repository contains pyspark pipeline to Health Risk from json input data.

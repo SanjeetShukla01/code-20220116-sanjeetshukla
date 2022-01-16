@@ -4,7 +4,7 @@
 [<img src="https://github.com/jackshukla7/code-20220116-sanjeetshukla/actions/workflows/publish.yml/badge.svg">](https://github.com/jackshukla7/code-20220116-sanjeetshukla/actions)
 
 For problem description see this pdf file:
-![file.pdf](Python_BMI_Calculator_Challenge_Rubeus.pdf)
+![file.pdf](https://github.com/jackshukla7/code-20220116-sanjeetshukla/blob/main/Python_BMI_Calculator_Challenge_Rubeus.pdf)
 
 ## Description
 This repository contains pyspark pipeline to Health Risk from json input data.
@@ -20,7 +20,7 @@ Based on above 3 columns, this pyspark code is deriving follwing insights:
 
 For calculation of BMI and Health Risk, following formula is used based on pdf file given here:
 
-![img.jpg](resources/image/rules_for_derivation.jpg)
+![img.jpg](https://github.com/jackshukla7/code-20220116-sanjeetshukla/blob/main/resources/image/rules_for_derivation.JPG)
 
 
 #### This application is using spark to process data and derive desired field. As spark is in memory distributed computing system. This application can scale to millions and billions of records. 

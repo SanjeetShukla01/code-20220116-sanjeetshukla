@@ -1,10 +1,10 @@
 ## Python BMI Calculator Coding Challenge V7
 
 
-[<img src="https://github.com/Sanjeet01/code-20220116-sanjeetshukla/actions/workflows/publish.yml/badge.svg">](https://github.com/Sanjeet01/code-20220116-sanjeetshukla/actions)
+[<img src="https://github.com/jackshukla7/code-20220116-sanjeetshukla/actions/workflows/publish.yml/badge.svg">](https://github.com/jackshukla7/code-20220116-sanjeetshukla/actions)
 
 For problem description see this pdf file:
-![file.pdf](Python_BMI_Calculator_Challenge_Rubeus.pdf")
+![file.pdf](Python_BMI_Calculator_Challenge_Rubeus.pdf)
 
 ## Description
 This repository contains pyspark pipeline to Health Risk from json input data.
